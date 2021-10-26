@@ -1,2 +1,2 @@
-# Simple-Ping-Pong-ScoreKeeper
+# Ping-Pong-ScoreKeeper
 Here I have used HTML and JavaScript with CSS FrameWork Bulma(alternatively BootStrap can be used).Using DOM model,we can have a simple Ping Pong ScoreKeeper where with the help of buttons which increment score of a player by 1 ,the player who is first to reach the cutoff score wins.The buttons are then disabled as the game has ended and with the help of reset button we can begin the game again.
